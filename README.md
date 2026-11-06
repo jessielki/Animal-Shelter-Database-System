@@ -57,7 +57,7 @@ The script provides pre-built queries for key operational reporting:
 
 This project was developed as a collaborative team coursework assignment.
 
-* **Team Workflow: **
+Team Workflow:
   * **Database Architecture & ERD Design:** Collaborated on entity-relationship modeling, normalisation (up to 3NF), and database schema scoping.
   * **DDL & Schema Development:** Authored Oracle SQL scripts for table creation, primary/foreign key definitions, and integrity constraint rules (regex IC validation, email checks, and value ranges).
   * **Data Population & Testing:** Prepared synthetic sample dataset records across all 13 relational tables.
